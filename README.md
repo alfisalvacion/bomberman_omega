@@ -22,3 +22,9 @@ Each level further will produce additional enemies with a wider sniffing range.
 ### Detonate the bomb
 
 ![Plant Bomb](screenshots/detonate.png)
+
+### If you get hit by an enemy, your character's size will increase making you more vulnerable to your enemies. You only got 3 lives! Make the best of it - bomb them all!
+
+![Plant Bomb](screenshots/bigger.png)
+
+![Plant Bomb](screenshots/gameover.png)
